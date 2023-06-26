@@ -1,0 +1,1891 @@
+Mon Jun 26 15:42:22 2023 Can't change colors!!
+Mon Jun 26 15:42:22 2023 start_matrix[0]: init *matrix
+Mon Jun 26 15:42:22 2023 start_matrix[1]: ended filling *matrix
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 0%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 1%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 2%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 4%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 5%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 8%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 10%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 13%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 16%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 17%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 18%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 20%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 21%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 24%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 25%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 29%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 30%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 32%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 34%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 36%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:22 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:22 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:23 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 36%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 34%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 34%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 34%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:24 2023 Percentage of cells alive: 36%
+Mon Jun 26 15:42:24 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 34%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 32%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 33%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:25 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:25 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 37%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:26 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:27 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:28 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 65%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 65%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 65%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 64%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 62%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 61%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:29 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 62%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 61%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:30 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:30 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:31 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:32 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:32 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 61%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 62%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 64%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 65%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 68%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 68%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 68%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 70%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 70%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 72%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 73%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 72%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 68%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 66%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 65%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 62%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 61%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 61%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:33 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:33 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:34 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:35 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:35 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:36 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:37 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:37 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 66%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 65%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 61%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 61%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 62%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 62%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 62%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 62%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 60%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:38 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 57%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 41%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 38%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 40%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:39 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 46%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:40 2023 Percentage of cells alive: 44%
+Mon Jun 26 15:42:40 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 42%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 45%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 56%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 58%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 54%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 53%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 52%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 50%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:41 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:41 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:42 2023 Percentage of cells alive: 49%
+Mon Jun 26 15:42:42 2023 update_matrix[3]: Creating new cell
+Mon Jun 26 15:42:42 2023 Percentage of cells alive: 48%
+Mon Jun 26 15:42:42 2023 update_matrix[3]: Creating new cell
