@@ -42,10 +42,10 @@ To run it execute on the project directory.
 
 - [ ] Improve code readability.
 - [ ] Improve image display.
-- [ X ] Add command line argument to support changing maximum cells on screen. 
-- [ X ] Add command line argument to support changing falling speed.
-- [ X ] Add command line argument to support changing trailing memory distance. ( How many characters are shown on each falling column )
-- [  ] Add command line argument to support changing colors.
+- [X] Add command line argument to support changing maximum cells on screen. 
+- [X] Add command line argument to support changing falling speed.
+- [X] Add command line argument to support changing trailing memory distance. ( How many characters are shown on each falling column )
+- [ ] Add command line argument to support changing colors.
 
 
 ## License
