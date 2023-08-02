@@ -4,13 +4,16 @@
 #include <time.h>
 #include <ncurses.h>
 
-#include "matrix.h"
 #include "constants.h"
+#include "matrix.h"
 #include "utils.h"
 
 struct cell *matrix;
+struct program *prog;
 
-int start_matrix(){
+int start_matrix(struct program *p){
+
+    prog = p;
 
     srand(time(NULL));
 
@@ -30,9 +33,9 @@ int start_matrix(){
     // Initialize cells on the matrix.
     matrix = malloc(0);
     LOG("start_matrix[0]: init *matrix");
-    for (int i = 0; i < MAX_CELLS_ON_SCREEN; i++){
+    for (int i = 0; i < prog->max_cells; i++){
         matrix = realloc(matrix, sizeof(struct cell) * (i + 1)); 
-        matrix[i].ttl = BASE_TTL;
+        matrix[i].ttl = prog->trailing_memory;
         matrix[i].c = ' ';
         matrix[i].alive = false; 
         matrix[i].pos_x = 0;
@@ -73,20 +76,20 @@ void update_matrix(){
     int h,w;
     getmaxyx(stdscr, h,w);
     color_set(1, NULL);
-    for (int i = 0; i < MAX_CELLS_ON_SCREEN; i ++){
+    for (int i = 0; i < prog->max_cells; i ++){
         if (matrix[i].alive == true){
             cells_alive++;
             if (can_change_color()){
-                int intensity= BASE_TTL - matrix[i].ttl; 
+                int intensity= prog->trailing_memory - matrix[i].ttl; 
                 color_set(intensity, NULL);
             }
-            if (matrix[i].ttl == BASE_TTL - 1){
+            if (matrix[i].ttl == prog->trailing_memory - 1){
                 attron(A_DIM);
                 mvaddch(matrix[i].pos_y - 1, matrix[i].pos_x, random_char());
                 attroff(A_DIM);
             }
 
-            if (matrix[i].ttl == BASE_TTL - 2){
+            if (matrix[i].ttl == prog->trailing_memory - 2){
                 attron(A_STANDOUT);
                 mvaddch(matrix[i].pos_y - 1, matrix[i].pos_x, random_char());
                 attroff(A_STANDOUT);
@@ -99,11 +102,11 @@ void update_matrix(){
             matrix[i].ttl--;
             if (matrix[i].ttl <= 0){
                 attron(A_INVIS);
-                mvaddch(matrix[i].pos_y - BASE_TTL, matrix[i].pos_x, 'X');
+                mvaddch(matrix[i].pos_y - prog->trailing_memory, matrix[i].pos_x, 'X');
                 attroff(A_INVIS);
             }
-            if (matrix[i].pos_y - BASE_TTL > h){
-                for (int j = BASE_TTL; j >= 0; j--){
+            if (matrix[i].pos_y - prog->trailing_memory > h){
+                for (int j = prog->trailing_memory; j >= 0; j--){
                     attron(A_INVIS);
                     mvaddch(matrix[i].pos_y - j, matrix[i].pos_x, 'X');
                     attroff(A_INVIS);
@@ -115,20 +118,14 @@ void update_matrix(){
         }
     }
 
-    char buff[128];
-    int per_cells_alive = ((double) cells_alive / (double)MAX_CELLS_ON_SCREEN) * 100;
-    sprintf(buff, "Percentage of cells alive: %d%%", per_cells_alive);
-    LOG(buff);
-
     // Create new cell
     double rolled = dice_rolls();
     do{
-        LOG("update_matrix[3]: Creating new cell");
-        for (int i = 0; i < MAX_CELLS_ON_SCREEN; i++){
+        for (int i = 0; i < prog->max_cells; i++){
             if ( !matrix[i].alive ){ 
                 int *p = random_pos();
                 matrix[i].alive = true;
-                matrix[i].ttl= BASE_TTL;
+                matrix[i].ttl= prog->trailing_memory;
                 matrix[i].pos_y = p[1];
                 matrix[i].pos_x = p[0];
                 free(p);

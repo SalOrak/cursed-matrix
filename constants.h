@@ -4,8 +4,7 @@
 #define LOG_FLAG 1
 #define LOG_FILE "cursed.log"
 
-#define MAX_CELLS_ON_SCREEN 75
-#define BASE_TTL 10
+// Inmutable constants
 #define PROB_NEW_CELL 0.35
 
 struct cell{
@@ -14,6 +13,13 @@ struct cell{
     int alive; //  Either should be displayed or not
     int pos_x; // Randomly fixed during alive
     int pos_y; // Random but ttl changes it indirectly 
+};
+
+struct program{
+    int max_cells; // Maximum cells on screen 
+    int speed; // Speed of the falling chars
+    int trailing_memory; // Trailing memory
+    int res; // Result
 };
 
 

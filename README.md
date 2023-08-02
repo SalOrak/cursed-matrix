@@ -37,13 +37,15 @@ To run it execute on the project directory.
 ./main
 ```
 
+
 ## Upcoming changes
 
 - [ ] Improve code readability.
 - [ ] Improve image display.
-- [ ] Add command line argument to support changing falling speed.
-- [ ] Add command line argument to support changing colors.
-- [ ] Add command line argument to support changing trailing memory distance. ( How many characters are shown on each falling column )
+- [ X ] Add command line argument to support changing maximum cells on screen. 
+- [ X ] Add command line argument to support changing falling speed.
+- [ X ] Add command line argument to support changing trailing memory distance. ( How many characters are shown on each falling column )
+- [  ] Add command line argument to support changing colors.
 
 
 ## License
