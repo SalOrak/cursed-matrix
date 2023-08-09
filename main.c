@@ -50,7 +50,7 @@ void usage(){
            "\t -c / --cells NUMBER:\n" \
            "\t\tChanges the maximum amount of leading characters on screen. Range 1 - 100" \
            "\t -co / --color COLOR:\n" \
-           "\t\tChanges the color of the leading character falling. One of WHITE | GREEN | BLUE | RED | PURPLE | YELLOW\n" \
+           "\t\tNot implemented yet. Changes the color of the leading character falling. One of WHITE | GREEN | BLUE | RED | PURPLE | YELLOW\n" \
            "\t -h / --help:" \
            "\t\tDisplays this usage help messsage\n"); 
 }
