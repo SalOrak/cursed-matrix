@@ -33,20 +33,20 @@ To install execute the following steps:
 Once project is built a new binary file would be available called `main`.
 To run it execute on the project directory.
 
-```
+```bash
 ./main --help
 
-Usage: mcursed [-fs --falling-speed] [ -c --color ] [ -tm --trailing-memory] [-h --help]
-    -fs / --failing-speed NUMBER:
-        Changes the speed of the letters falling. Range 1 - 100
-    -tm / --trailing-memory NUMBER:
-        the amount of characters alive in the trailing while alive. Range 0 - 50
-    -c / --cells NUMBER:
-        Changes the maximum amount of leading characters on screen. Range 1 - 100
-    -co / --color COLOR:
-        Not implemented yet. Changes the color of the leading character falling. One of WHITE | GREEN | BLUE | RED | PURPLE | YELLOW. 
-    -h / --help:" 
-        Displays this usage help messsage
+# Usage: mcursed [-fs --falling-speed] [ -c --color ] [ -tm --trailing-memory] [-h --help]
+#    -fs / --failing-speed NUMBER:
+#        Changes the speed of the letters falling. Range 1 - 100
+#    -tm / --trailing-memory NUMBER:
+#        the amount of characters alive in the trailing while alive. Range 0 - 50
+#    -c / --cells NUMBER:
+#        Changes the maximum amount of leading characters on screen. Range 1 - 100
+#    -co / --color COLOR:
+#        Not implemented yet. Changes the color of the leading character falling. One of WHITE | GREEN | BLUE | RED | PURPLE | YELLOW. 
+#    -h / --help:" 
+#        Displays this usage help messsage
 
 ```
 
