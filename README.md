@@ -1,7 +1,7 @@
 # cursed-matrix
 Matrix effect developed in C using ncurses library.
 
-> ** IMPORTANT: This project is still under development. It displays a very basic and unfinished version of the matrix effect. More changes are upcoming
+> **IMPORTANT**: This project is still under development. It displays a very basic and unfinished version of the matrix effect. More changes are upcoming
 
 ## About 
 
@@ -34,7 +34,20 @@ Once project is built a new binary file would be available called `main`.
 To run it execute on the project directory.
 
 ```
-./main
+./main --help
+
+Usage: mcursed [-fs --falling-speed] [ -c --color ] [ -tm --trailing-memory] [-h --help]
+    -fs / --failing-speed NUMBER:
+        Changes the speed of the letters falling. Range 1 - 100
+    -tm / --trailing-memory NUMBER:
+        the amount of characters alive in the trailing while alive. Range 0 - 50
+    -c / --cells NUMBER:
+        Changes the maximum amount of leading characters on screen. Range 1 - 100
+    -co / --color COLOR:
+        Not implemented yet. Changes the color of the leading character falling. One of WHITE | GREEN | BLUE | RED | PURPLE | YELLOW. 
+    -h / --help:" 
+        Displays this usage help messsage
+
 ```
 
 
