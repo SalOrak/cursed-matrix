@@ -11,9 +11,9 @@
 struct cell *matrix;
 struct program *prog;
 
-int start_matrix(struct program *p){
+int start_matrix(void *p){
 
-    prog = p;
+    prog = (struct program *) p;
 
     srand(time(NULL));
 

@@ -2,7 +2,7 @@
 #define __MATRIX_H
 
 
-int start_matrix(struct program *p);
+int start_matrix(void *p);
 
 int set_colors();
 
